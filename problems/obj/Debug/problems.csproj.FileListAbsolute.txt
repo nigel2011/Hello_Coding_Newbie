@@ -1,0 +1,7 @@
+C:\Projects\intro\06\problems\bin\Debug\problems.exe.config
+C:\Projects\intro\06\problems\bin\Debug\problems.exe
+C:\Projects\intro\06\problems\bin\Debug\problems.pdb
+C:\Projects\intro\06\problems\obj\Debug\problems.csprojAssemblyReference.cache
+C:\Projects\intro\06\problems\obj\Debug\problems.csproj.CoreCompileInputs.cache
+C:\Projects\intro\06\problems\obj\Debug\problems.exe
+C:\Projects\intro\06\problems\obj\Debug\problems.pdb
